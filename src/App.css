@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+#phil {
+  padding-bottom: 10%;
+  width: 25%;
+  font-weight: 25%;
+}
 
 .App-logo {
   height: 40vmin;
